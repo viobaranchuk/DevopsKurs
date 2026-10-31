@@ -2,7 +2,7 @@
 # The last matching line wins, so general rules go first.
 
 # Default owner for everything in the repo
-*                     @viobaranchuk
+*                     @Violetta_Korostastashovets
 
 # In a team, add more specific rules below, for example:
-# /.github/workflows/   @viobaranchuk
+# /.github/workflows/   @Violetta_Korostastashovets
